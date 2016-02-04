@@ -1,14 +1,26 @@
-layout_spectrum: 0.9336431
-typography_spectrum: 0.7218297
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7361745
-  lightness: 0.4384041
   brandStrength: 0.472073
+  rhythmicContrast: 0.139333
   brandColors:
     - '#3B3738'
     - '#017AAA'
     - '#D7D7D7'
     - '#99AAB4'
     - '#BDFFFF'
-  rhythmicContrast: 0.139333
+  lightness: 0.4384041
+typography_spectrum: 0.6933405
+layout_spectrum: 1
 name: CausEffect
