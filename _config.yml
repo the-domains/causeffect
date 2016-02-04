@@ -1,0 +1,14 @@
+layout_spectrum: 0.9336431
+typography_spectrum: 0.7218297
+color:
+  saturation: 0.7361745
+  lightness: 0.4384041
+  brandStrength: 0.472073
+  brandColors:
+    - '#3B3738'
+    - '#017AAA'
+    - '#D7D7D7'
+    - '#99AAB4'
+    - '#BDFFFF'
+  rhythmicContrast: 0.139333
+name: CausEffect
