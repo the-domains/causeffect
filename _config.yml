@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6933405
 color:
-  saturation: 0.7361745
+  saturation: 0.9457573
   brandStrength: 0.7620838
-  lightness: 0.4384041
+  lightness: 0.7835661
   brandColors:
     - '#3B3738'
     - '#017AAA'
     - '#D7D7D7'
     - '#99AAB4'
     - '#BDFFFF'
-  rhythmicContrast: 0.139333
+  rhythmicContrast: 1
+typography_spectrum: 0.6933405
 layout_spectrum: 0.8233083
 name: CausEffect
