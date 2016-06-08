@@ -4,17 +4,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6933405
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.9457573
   brandStrength: 0.7620838
-  lightness: 0.7835661
+  lightness: 0.490333
   brandColors:
     - '#3B3738'
     - '#017AAA'
@@ -22,5 +21,6 @@ color:
     - '#99AAB4'
     - '#BDFFFF'
   rhythmicContrast: 1
-layout_spectrum: 0
+typography_spectrum: 0.6933405
+layout_spectrum: 0.9317937
 name: CausEffect
