@@ -10,8 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.6933405
 color:
-  saturation: 0.9457573
+  saturation: 0.2572502
   brandStrength: 0.7620838
   lightness: 0.490333
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#D7D7D7'
     - '#99AAB4'
     - '#BDFFFF'
-  rhythmicContrast: 1
-typography_spectrum: 0.6933405
+  rhythmicContrast: 0.2873254
 layout_spectrum: 0.9317937
 name: CausEffect
